@@ -1,1 +1,39 @@
-h1 { color: red; }
+
+
+.book.font-family-0 section
+.book.font-family-1 section {
+  font: 300 16px/170% 'Chronicle SSm A', 'Chronicle SSm B';
+  font-weight: 300;
+  color: #333;
+}
+
+.book.font-family-0 section h1,
+.book.font-family-1 section h1 {
+  font: 700 32px/40px 'Ideal Sans SSm A', 'Ideal Sans SSm B';
+  margin: 35px 0 20px;
+  color: #630;
+}
+
+.book.font-family-0 section h2,
+.book.font-family-1 section h2 {
+  font: 700 16px/24px 'Ideal Sans SSm A', 'Ideal Sans SSm B';
+  margin: 35px 0 8px;
+  color: #630;
+  text-transform: uppercase;
+} 
+.book.font-family-0 section h2:nth-child(1),
+.book.font-family-1 section h2:nth-child(1) {
+    h2:nth-child(1) {
+      margin-top: 0;
+    }
+
+.book.font-family-0 section h3,
+.book.font-family-1 section h3 {
+  font: 700 16px/24px 'Ideal Sans SSm A', 'Ideal Sans SSm B';
+  margin: 35px 0 8px;
+  color: #333;
+}
+.book.font-family-0 section h3:nth-child(1),
+.book.font-family-1 section h3:nth-child(1) {
+  margin-top: 0;
+}
