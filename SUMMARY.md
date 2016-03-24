@@ -5,4 +5,5 @@
 * [Safety and Consent](safety-and-consent.md)
 * [Internal Communications](communications.md)
 * Marketing
+* Mission, Vision, Values
 
