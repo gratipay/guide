@@ -1,1 +1,35 @@
-/* CSS for website */
+@import url("//cloud.typography.com/6540672/615104/css/fonts.css");
+
+h1 {
+  
+}
+body {
+  font: 300 16px/170% 'Chronicle SSm A', 'Chronicle SSm B';
+  font-weight: 300;
+  color: #333;
+  background: #FFF;
+}
+h1 {
+  font: 700 32px/40px 'Ideal Sans SSm A', 'Ideal Sans SSm B';
+  margin: 35px 0 20px;
+  color: #630;
+}
+
+h2 {
+  font: 700 16px/24px 'Ideal Sans SSm A', 'Ideal Sans SSm B';
+  margin: 35px 0 8px;
+  color: #630;
+  text-transform: uppercase;
+}
+h2:nth-child(1) {
+  margin-top: 0;
+}
+
+h3 {
+  font: 700 16px/24px 'Ideal Sans SSm A', 'Ideal Sans SSm B';
+  margin: 35px 0 8px;
+  color: #333;
+}
+h3:nth-child(1) {
+  margin-top: 0;
+}
