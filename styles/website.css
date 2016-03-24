@@ -23,9 +23,8 @@
 } 
 .book.font-family-0 section h2:nth-child(1),
 .book.font-family-1 section h2:nth-child(1) {
-    h2:nth-child(1) {
-      margin-top: 0;
-    }
+  margin-top: 0;
+}
 
 .book.font-family-0 section h3,
 .book.font-family-1 section h3 {
