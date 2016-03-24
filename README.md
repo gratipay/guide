@@ -8,13 +8,15 @@ Before we get into practical matters, though, let's take a moment to define what
 
 ## What is an Open Organization?
 
-Let's start by defining what we mean when we talk about open organizations. There may be other definitions, but this is Gratipay's. We'll look first at a snapshot, our definition of an open organization as it currently stands. Then we'll provide some background on how we arrived at this definition.
+Let's start by defining what we mean when we talk about open organizations. There may be other definitions, but this is Gratipay's. We'll look first at a snapshot, our definition of an open organization as it currently stands. Then we'll provide some background on how we arrived at our definition.
+
+(Note: This section is important for us internally, because it encodes one of the two criteria we look at when [reviewing](http://inside.gratipay.com/howto/review-teams) applications for new organizations interested in joining Gratipay.)
 
 ### Our Definition
 
 There are three characteristics we look for in an open organization: liberal licensing, pay-what-you-want revenue, and take-what-you-want compensation.
 
-Liberal licensing means that your organization offers its products and services under liberal licenses such as those developed by [Creative Commons](https://creativecommons.org/) or approved by the [Open Source Initiative](https://opensource.org/).
+Liberal licensing means that your organization offers its products and services under liberal licenses such as those developed by [Creative Commons](https://creativecommons.org/) or approved by the [Open Source Initiative](https://opensource.org/). We don't have 
 
 ### How We Arrived at Our Definition
 
