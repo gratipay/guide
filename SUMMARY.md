@@ -3,4 +3,5 @@
 * [Introduction](README.md)
 * Governance Models
 * Safety and Consent
+* Communications
 
