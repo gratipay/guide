@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* Mission, Vision, Values
 * [Governance](governance.md)
+* Mission, Vision, Values
 * [Safety and Consent](safety-and-consent.md)
 * [Internal Communications](communications.md)
 * Marketing
