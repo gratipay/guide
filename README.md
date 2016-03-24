@@ -1,8 +1,8 @@
 # The Gratipay Guide to Running an Open Organization
 
-The purpose of this book is to share best practices for running an open organization. It is written and published by Gratipay, which is itself an open organization that provides payment and payroll services for open organizations. Since the concept of an open organization is so new, we perceive a need in our community for practical advice on running an open organization. The audience for this book, therefore, is the community of open organizations that are using Gratipay, as well as our potential users.
+The purpose of this book is to share best practices for running an open organization within the Gratipay user community. Gratipay is itself an open organization; we provide payments and payroll services for other open organizations. We see a need in our community for practical advice on running an open organization. The audience for this book, therefore, is the community of open organizations that are using Gratipay, as well as our potential users.
 
-Running an open organization on Gratipay? Please consider this *your* book—[feedback](https://github.com/gratipay/guide/issues/new) is welcome. Thinking of starting or converting to an open organization, possibly on Gratipay? Read on, and then [dive in](https://gratipay.com/new)!
+Are you running an open organization on Gratipay? Please consider this *your* book—[feedback](https://github.com/gratipay/guide/issues/new) is welcome. Thinking of starting or converting to an open organization, possibly on Gratipay? Read on, and then [dive in](https://gratipay.com/new)!
 
 Before we get into practical matters, though, let's take a moment to define what exactly we mean by an open organization, and why you might want to run one.
 
