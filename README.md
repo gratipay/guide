@@ -4,7 +4,7 @@ The purpose of this book is to share best practices for running an open organiza
 
 Running an open organization on Gratipay? Please consider this *your* book—[feedback](https://github.com/gratipay/guide/issues/new) is welcome. Considering it? Read on, and then [dive in](https://gratipay.com/new)!
 
-Before we get into practical matters, though, let's take a moment to define what we mean by an open company, and why you might want to run one.
+Before we get into practical matters, though, let's take a moment to define what we mean by an open organization, and why you might want to run one.
 
 ## What is an Open Organization?
 
