@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Governance](governance.md)
 * Mission, Vision, Values
+* [Governance](governance.md)
 * [Internal Communications](communications.md)
 * Marketing
 
