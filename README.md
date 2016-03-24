@@ -32,6 +32,14 @@ Take-what-you-want compensation means the staff of the organization—its propri
 
 ### How We Arrived at Our Definition
 
+"[The First Open Company](http://blog.gittip.com/post/26350459746/the-first-open-company/)"
+
+"[The Second Open Company](https://gratipay.news/the-second-open-company-4cbab7ca1a47)"
+
+[Balanced](https://www.balancedpayments.com/open) ([archive](http://archive.is/DNR8l))
+
+[Open Company Initiative](http://www.opencompany.org/)
+
 ---
 
 Are you running an open organization on Gratipay? Please consider this *your* book—[feedback](https://github.com/gratipay/guide/issues/new) is welcome as you read along. Thinking of starting or converting to an open organization, possibly on Gratipay? Read on, and then [dive in](https://gratipay.com/new)!
