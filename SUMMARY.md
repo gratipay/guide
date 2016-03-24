@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](readme.md)
-* What Is an Open Organization?
+* What Do We Mean by an Open Organization?
 
