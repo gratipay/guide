@@ -3,6 +3,6 @@
 * [Introduction](README.md)
 * [Governance](governance.md)
 * [Safety and Consent](safety-and-consent.md)
-* [Communications](communications.md)
+* [Internal Communications](communications.md)
 * Marketing
 
