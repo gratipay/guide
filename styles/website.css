@@ -1,6 +1,6 @@
 @import url("//cloud.typography.com/6540672/615104/css/fonts.css");
 
-.book.font-family-0 section
+.book.font-family-0 section,
 .book.font-family-1 section {
   font: 300 16px/170% 'Chronicle SSm A', 'Chronicle SSm B';
   font-weight: 300;
