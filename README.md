@@ -2,11 +2,11 @@
 
 The purpose of this book is to share best practices for running an open organization. Gratipay is itself an open organization; we provide payments and payroll services for other open organizations. We see a need in our user community for practical advice on running an open organization, both because the concept itself is new and also because many of us are new to organizational leadership in general. The audience for this book, therefore, is the community of open organizations that are using Gratipay, as well as our potential users.
 
-Open organizations are fundamentally *organizations*, so a good deal of advice and wisdom about running *any* organization applies to running an open organization. We use the term "organization" loosely to mean an economic unit larger than an individual. Organizations take in money, and produce value in the world.
+Open organizations are fundamentally *organizations*,  a term we use loosely to mean an economic unit larger than an individual. Organizations take in money, and produce value in the world. A good deal of advice, then, about running *any* organization, applies to running an open organization.
 
-However, a lot of our users aren't used to thinking of themselves as organizational leaders. Some might even balk at the idea—maybe it sounds like selling out! If this describes you, then part of the purpose of this book is to put you on a path to thinking about your project as an *organization* (or to help you decide that Gratipay is not a good fit for you).
+However, a lot of our users aren't used to thinking of themselves as organizational leaders. Some might even balk at the idea—maybe it sounds like selling out! If this describes you, then part of the purpose of this book is to put you on a path to thinking about your project as an *organization* and you as a *leader* of it (or to help you decide that Gratipay is not a good fit for you).
 
-This book is laid out as a survey of 
+This book is laid out as an introduction to topics that every organization must address, 
 
 Before we get into practical matters, though, let's take a moment to define what exactly we mean by an open organization, and why you might want to run one.
 
