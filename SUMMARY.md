@@ -1,8 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Mission, Vision, Values
+* [Your Business Model](your-business-model.md)
+* [Communicating](communicating.md)
 * [Governance](governance.md)
-* [Internal Communications](communications.md)
-* Marketing
-
