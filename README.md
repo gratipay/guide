@@ -1,4 +1,4 @@
-# The Gratipay Guide to Running an Open Organization
+# The Gratipay Guide to Launching an Open Organization
 
 The purpose of this book is to help you launch an open organization on Gratipay. Gratipay is itself an open organization; we provide payments and payroll services for other open organizations. We see a need in our user community for practical advice on running an open organization, both because the concept itself is new, and also because many of us who care about openness are new to organizational leadership. The audience for this book, therefore, is the community of open organizations that are using Gratipay, as well as our potential users.
 
@@ -10,6 +10,8 @@ This book is laid out as an introduction to topics that are relevant to every or
 
  1. Developing a Business Model
  2. Communicating Inside and Out
+ 3. Governing Yourselves
+ 4. Financing
 
 Before we get into practical matters, though, let's take a moment to define what exactly we mean by an open organization, and, along the way, why you might want to run one.
 
