@@ -1,9 +1,9 @@
 # Financing
 
-revenue
-loans
-grants (non-profit)
-equity (for-profit)
+- revenue
+- loans
+- grants (non-profit)
+- equity (for-profit)
 
 Tied to governance.
 
