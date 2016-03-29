@@ -1,6 +1,10 @@
 # Financing
 
-- revenue
+## Bootstrapping
+
+
+## Outside Money
+
 - loans
 - grants (non-profit)
 - equity (for-profit)
