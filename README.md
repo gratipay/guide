@@ -4,7 +4,7 @@ The purpose of this book is to share best practices for running an open organiza
 
 Open organizations are fundamentally *organizations*, a term we use loosely to mean an economic unit larger than an individual. Whether business, charity, or government, organizations take in money, and produce value in the world. A good deal of advice, then, about running *any* organization, applies to running an open organization.
 
-However, a lot of our users aren't used to thinking of themselves as organizational leaders. Some might balk at the idea—maybe it even sounds like selling out! If this describes you, then part of the purpose of this book is to put you on a path to thinking about your project as an *organization* and you as a *leader* of it (or to help you decide that Gratipay is not a good fit for you).
+However, a lot of our users aren't used to thinking of themselves as organizational leaders. Some might balk at the idea—maybe it even sounds like selling out! If this describes you, then part of the purpose of this book is to put you on a path to thinking about your project as an *organization* and you as a *leader* of it.
 
 This book is laid out as an introduction to topics that are relevant to every organization. Each chapter provides a brief introduction to the topic with links to further resources, and then a discussion of unique ways in which the topic applies to *open* organizations.
 
@@ -13,7 +13,7 @@ Before we get into practical matters, though, let's take a moment to define what
 
 ## What Is an Open Organization? Why Are They Interesting?
 
-Let's start by defining what we mean when we talk about open organizations. There may be other definitions, but this is Gratipay's. We'll look first at a snapshot, our definition as it currently stands. Then we'll provide some background on how we arrived at our definition. Along the way, hopefully you'll catch some of our excitement about how open organizations improve on closed organizations.
+Let's start by defining what we mean when we talk about open organizations. We'll look first at a snapshot, our definition as it currently stands. Then we'll provide some background on how we arrived at our definition. Along the way, hopefully you'll catch some of our excitement about how open organizations improve on closed organizations. Lastly, we'll discuss our definition in relation to some other definitions.
 
 (Note: This section is especially important for us internally, because it encodes one of the two criteria we look at when [reviewing](http://inside.gratipay.com/howto/review-teams) applications for new organizations interested in joining Gratipay.)
 
@@ -40,6 +40,24 @@ Take-what-you-want compensation means the staff of the organization—its propri
 
 [Open Company Initiative](http://www.opencompany.org/)
 
----
+### Other Definitions
+
+From http://p2pfoundation.net/Open_Organization:
+
+> An open organisation is an organisation open to anyone who agrees to abide by its purpose and principles, with complete transparency and clearly defined decision making structures, ownership patterns, and exchange mechanisms; designed, defined, and refined, by all members as part of a continual transformative process. (Source: http://uniteddiversity.com)
+
+That one [seems](http://www.transitiontownbrixton.org/2009/12/definition-of-an-open-organisation/) to date to December, 2009—almost as old as E!
+
+> An Open Organization is defined as the sharing of ideas, knowledge, resources, and skills across organizational, generational and cultural boundaries within, and in some cases outside, a flat hierarchical, agile, self-led organizational system for the purpose of achieving a stated outcome. (Source: Dr. Philip A Foster, http://www.maximumchange.com)
+
+From [*The Open Organization*](https://opensource.com/resources/what-open-organization) by RedHat CEO Jim Whitehurst:
+
+> [An open organization is] an organization that engages participative communities both inside and out—responds to opportunities more quickly, has access to resources and talent outside the organization, and inspires, motivates, and empowers people at all levels to act with accountability.
+
+No idea where [this](http://www.businessdictionary.com/definition/organic-organization.html) is coming from:
+
+> Organizational structure characterized by (1) Flatness: communications and interactions are horizontal, (2) Low specialization: knowledge resides wherever it is most useful, and (3) Decentralization: great deal of formal and informal participation in decision making. Organic organizations are comparatively more complex and harder to form, but are highly adaptable, flexible, and more suitable where external environment is rapidly changing and is unpredictable. Also called open organizations, they are contrasted with mechanistic organizations.
+
+## Let's Go!
 
 Are you running an open organization on Gratipay? Please consider this *your* book—[feedback](https://github.com/gratipay/guide/issues/new) is welcome as you read along. Thinking of starting or converting to an open organization, possibly on Gratipay? Read on, and then [dive in](https://gratipay.com/new)!
