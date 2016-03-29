@@ -1,6 +1,6 @@
 # Financing
 
-It takes money to make money. How do you get started? How fast do you want to grow?
+It takes money to make money. How do you get started? How fast do you want to grow? Why?
 
 ## Bootstrapping
 
@@ -16,9 +16,9 @@ You can get some people to give you money now if you promise to pay it back to t
 
 ### Grants
 
-Fellowships: Ashoka, Shuttleworth. Ph.D. programs.
+Individuals can consider fellowships: Ashoka, Shuttleworth, Ph.D. programs.
 
-Non-profit. Depending on your revenue model, this could be considered capital financing or revenue.
+Organizations can consider asking for donations from foundations or individuals. This could count as crowdfunding. Usually you'll structure as a non-profit. The key here is that people are giving you money because of value you give a third party. The people giving you money aren't getting the value (they get indirect social value).
 
 
 ### Investments
