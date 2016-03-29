@@ -23,7 +23,6 @@ Non-profit. Depending on your revenue model, this could be considered capital fi
 
 ### Investments
 
-Capitalists will give you money if you can convince them that you will give them 
-
+Capitalists will give you money if you can convince them that there's a 10% chance that you will give them ten times as much back within 10 years.
 
 
