@@ -9,4 +9,4 @@ Tied to governance.
 
 Alternatives:
 
-  -   - Your Ph.D. project?
+  - Your Ph.D. project?
