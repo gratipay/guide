@@ -25,7 +25,5 @@ Non-profit. Depending on your revenue model, this could be considered capital fi
 
 Capitalists will give you money if you can convince them that you will give them 
 
-- equity (for-profit)
-
 
 
