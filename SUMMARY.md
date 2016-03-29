@@ -4,5 +4,5 @@
 * [Your Business Model](your-business-model.md)
 * [Communicating](communicating.md)
 * [Governance](governance.md)
-* Financing
+* [Financing](financing.md)
 
