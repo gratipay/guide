@@ -1,6 +1,6 @@
 # The Gratipay Guide to Launching an Open Organization
 
-The purpose of this book is to help you launch an open organization on Gratipay. Gratipay is itself an open organization; we provide payments and payroll services for other open organizations. We see a need in our user community for practical advice on running an open organization, both because the concept itself is new, and also because many of us who care about openness are new to organizational leadership. The audience for this book, therefore, is the community of open organizations that are using Gratipay, as well as our potential users.
+The purpose of this book is to help you launch an open organization on Gratipay. Gratipay is itself an open organization; we provide payments and payroll services for other open organizations. We see a need in our user community for practical advice on running an open organization, both because the concept itself is new, and also because many of us who care about openness are new to organizational leadership. The audience for this book, therefore, is the community of open organizations that are using Gratipay, especially those just starting out, as well as our potential users.
 
 Open organizations are fundamentally *organizations*, a term we use loosely to mean an economic unit larger than an individual. Whether business, charity, or government, organizations take in money, and produce value in the world. A good deal of advice, then, about running *any* organization, applies to running an open organization.
 
