@@ -10,16 +10,18 @@ Whatever your business model, it will provide sustainable profit by definition (
 
 If you want to grow faster than your own profit allows, then you need to bring in outside money. The way this works is that someone gives you a big chunk of money now, in return for something later. The options available here are tied to your governance structure.
 
-### Loans
-
-You can get some people to give you money now if you promise to pay it back to them later. Friends, family, and sites such as [Kiva Zip](https://zip.kiva.org/) may loan you money at zero interest, if they like you enough. Banks, credit unions, and crowdfunding options like [LendingClub](https://www.lendingclub.com/) and [Prosper](https://www.prosper.com/) may loan you money if you can convince them that you will pay it back with interest.
-
-### Grants
+### Donations
 
 Individuals can consider fellowships: Ashoka, Shuttleworth, Ph.D. programs.
 
-Organizations can consider asking for donations from foundations or individuals. This could count as crowdfunding. Usually you'll structure as a non-profit. The key here is that people are giving you money because of value you give a third party. The people giving you money aren't getting the value (they get indirect social value).
+Organizations can consider asking for donations from foundations or individuals (crowdfunding). Usually you'll structure as a non-profit. The key here is that people are giving you money because of value you give a third party. The people giving you money aren't getting the value (they get indirect social value).
 
+If the people giving you the money are the ones receiving the value, then that is revenue, not donations.
+
+
+### Loans
+
+You can get some people to give you money now if you promise to pay it back to them later. Friends, family, and sites such as [Kiva Zip](https://zip.kiva.org/) may loan you money at zero interest, if they like you enough. Banks, credit unions, and crowdfunding options like [LendingClub](https://www.lendingclub.com/) and [Prosper](https://www.prosper.com/) may loan you money if you can convince them that you will pay it back with interest.
 
 ### Investments
 
