@@ -1,12 +1,15 @@
 # The Gratipay Guide to Running an Open Organization
 
-The purpose of this book is to help you launch an open organization on Gratipay. Gratipay is itself an open organization; we provide payments and payroll services for other open organizations. We see a need in our user community for practical advice on running an open organization, both because the concept itself is new and also because many of us are new to organizational leadership in general. The audience for this book, therefore, is the community of open organizations that are using Gratipay, as well as our potential users.
+The purpose of this book is to help you launch an open organization on Gratipay. Gratipay is itself an open organization; we provide payments and payroll services for other open organizations. We see a need in our user community for practical advice on running an open organization, both because the concept itself is new, and also because many of us who care about openness are new to organizational leadership. The audience for this book, therefore, is the community of open organizations that are using Gratipay, as well as our potential users.
 
 Open organizations are fundamentally *organizations*, a term we use loosely to mean an economic unit larger than an individual. Whether business, charity, or government, organizations take in money, and produce value in the world. A good deal of advice, then, about running *any* organization, applies to running an open organization.
 
 However, a lot of our users aren't used to thinking of themselves as organizational leaders. Some might balk at the idea—maybe it even sounds like selling out! If this describes you, then part of the purpose of this book is to put you on a path to thinking about your project as an *organization* and you as a *leader* of it.
 
 This book is laid out as an introduction to topics that are relevant to every organization. Each chapter provides a brief introduction to the topic with links to further resources, and then a discussion of unique ways in which the topic applies to *open* organizations.
+
+ 1. Developing a Business Model
+ 2. Communicating Inside and Out
 
 Before we get into practical matters, though, let's take a moment to define what exactly we mean by an open organization, and, along the way, why you might want to run one.
 
