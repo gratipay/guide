@@ -4,7 +4,7 @@ It takes money to make money. How do you get started? How fast do you want to gr
 
 ## Bootstrapping
 
-Whatever your business model, it will provide sustainable profit by definition (if not, your organization dies). Bootstrapping means only growing profit 
+Whatever your business model, it will provide sustainable profit by definition (if not, your organization dies). Bootstrapping means only financing growth through your own profit. This is hard work. It's slow but rewarding.
 
 ## Outside Money
 
