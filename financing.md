@@ -7,5 +7,6 @@
 
 Tied to governance.
 
-alternatives:
-  - academic?
+Alternatives:
+
+  - Your Ph.D. project?
