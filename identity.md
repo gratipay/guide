@@ -1,8 +1,14 @@
 # Identity
 
-As we said in the introduction, we're defining an organization as an economic entity larger than an individual. The purpose of an organization
+As we said in the introduction, we're defining an organization as an economic entity larger than an individual. What sets one organization apart from another? In this chapter we'll look at three ways to define your organization's collective self-identity. We'll start with the broadest scope: mission, vision, and values. Then we'll talk about developing a business model that 
 
 ## Mission, Vision, Values
+
+A mission is a verb. It's something you do.
+
+A vision is a noun. It's something you see.
+
+Values are rules of thumb that you refer to when making difficult decisions.
 
 ## Business Model
 
@@ -12,3 +18,4 @@ Strageyzer's [Business Model Canvas](http://businessmodelgeneration.com/canvas/b
 
 ![The Value Proposition Canvas](the-value-proposition-canvas.png)
 
+## Processes
