@@ -1,4 +1,4 @@
-# Your Identity
+# Identity
 
 As we said in the introduction, we're defining an organization as an economic entity larger than an individual. The purpose of an organization
 
