@@ -54,9 +54,9 @@ That one [seems](http://www.transitiontownbrixton.org/2009/12/definition-of-an-o
 
 > An Open Organization is defined as the sharing of ideas, knowledge, resources, and skills across organizational, generational and cultural boundaries within, and in some cases outside, a flat hierarchical, agile, self-led organizational system for the purpose of achieving a stated outcome. (Source: Dr. Philip A Foster, http://www.maximumchange.com)
 
-From [*The Open Organization*](https://opensource.com/resources/what-open-organization) by RedHat CEO Jim Whitehurst:
+From [*The Open Organization*](https://opensource.com/resources/what-open-organization) by RedHat CEO Jim Whitehurst (p. 2):
 
-> [An open organization is] an organization that engages participative communities both inside and out—responds to opportunities more quickly, has access to resources and talent outside the organization, and inspires, motivates, and empowers people at all levels to act with accountability.
+> [An open organization is] an organization that engages participative communities both inside and out[.]
 
 No idea where [this](http://www.businessdictionary.com/definition/organic-organization.html) is coming from:
 
@@ -64,4 +64,4 @@ No idea where [this](http://www.businessdictionary.com/definition/organic-organi
 
 ## Let's Go!
 
-Are you running an open organization on Gratipay? Please consider this *your* book—[feedback](https://github.com/gratipay/guide/issues/new) is welcome as you read along. Thinking of starting or converting to an open organization, possibly on Gratipay? Read on, and then [dive in](https://gratipay.com/new)!
+Are you running an open organization on Gratipay? Please consider this *your* book—[feedback](https://github.com/gratipay/guide/issues/new) is welcome as you read along. Thinking of launching or converting to an open organization, possibly on Gratipay? Read on, and then [dive in](https://gratipay.com/new)!
