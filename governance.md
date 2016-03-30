@@ -15,8 +15,13 @@ The tl;dr is that every situation is different, and there are no one-size-fits a
 
 ## Legal Structure
 
-You can be a for-profit or a non-profit or a department of government. A for-profit is owned by  
-private parties (individuals or other organizations). A non-profit or a department of government is owned by everyone and therefore no-one.
+You can be a for-profit or a non-profit or a department of government. A for-profit is owned by private parties (individuals or other organizations). A cooperative is a for-profit that is owned by a lot of people (usually the workers).  A non-profit or a department of government is owned by everyone and therefore no-one, so that profits stays in the organization. Legal structures such as the B-Corporation or the Public Benefit Corporation (PBC) are kind of in the middle: they still have owners who get profit, but they formally encode socially minded constraints on profit maximization.
+
+You may or may not want to encode the defining characteristics of your organization in its legal structure. The legal system is 
+
+Legal structure also affects taxation.
+
+
 
 ## Management Structure
 
