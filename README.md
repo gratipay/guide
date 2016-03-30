@@ -28,9 +28,7 @@ Let's start by defining what we mean when we talk about open organizations. We'l
 
 There are three primary characteristics we look for in an open organization: liberal licensing, pay-what-you-want revenue, and take-what-you-want compensation. For each of these criteria, there is room for interpretation. We're fundamentally looking for an *attitude* of openness, of which these characteristics are a manifestation. Let's consider each in turn.
 
-Liberal licensing means that your organization offers its products and services under permissive licenses such as those developed by [Creative Commons](https://creativecommons.org/), or those approved by the [Open Source Initiative](https://opensource.org/). Why? Because you want to share!
-
-**TODO** What about services instead of products?
+Liberal licensing means that your organization offers its products and services under permissive licenses such as those developed by [Creative Commons](https://creativecommons.org/), or those approved by the [Open Source Initiative](https://opensource.org/). Why? Because you want to share! P.S. We haven't sort out how this relates to services businesses yet.
 
 Pay-what-you-want revenue means that a portion of your revenue is voluntary on the part of your customers. We said earlier that organizations in general take in money, and produce value in the world. There's a sense in which *open* organizations reverse the process: first we produce value in the world, and *then* we receive money for it. Why? Because you want to share!
 
