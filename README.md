@@ -6,7 +6,7 @@ The important thing to remember about an open organization is that it is still a
 
 However, a lot of us aren't used to thinking of ourselves as organizational leaders. Some of you might balk at the idea—maybe it even sounds like selling out! If you're raising your hand, then part of the purpose of this book is to put you on a path to thinking about your project as an *organization* and you as a *leader* of it. Hopefully, after reading, this will sound more exciting than scary.
 
-This book is laid out as an introduction to topics that are relevant to every organization. Each chapter provides a brief introduction to the topic with links to further resources, and includes a discussion of ways in which the topic uniquely applies to *open* organizations.
+This book is laid out as an introduction to topics that are relevant to every organization. Each chapter provides a brief introduction to the topic with links to further resources, and includes a discussion of ways in which the topic uniquely applies to *open* organizations. The topics are:
 
  1. [Identity](identity.md)
  2. [Communication](communication.md)
