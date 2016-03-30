@@ -4,9 +4,9 @@ The purpose of this book is to help you launch an open organization on Gratipay.
 
 The important thing to remember about an open organization is that it is still an *organization*, a term we'll use to mean an economic unit larger than an individual. Whether business, charity, or government, organizations take in money, and produce value in the world. Open organizations are no different in that regard, and they are subject to the same market and regulatory forces as any other organization. They have to provide a better product for a lower price if we want to succeed, and therefore much of the advice that applies to *any* organization translates more or less directly to an open organization.
 
-However, a lot of our users aren't used to thinking of themselves as organizational leaders. Some of you might balk at the idea—maybe it even sounds like selling out! If you're raising your hand, then part of the purpose of this book is to put you on a path to thinking about your project as an *organization* and you as a *leader* of it. Hopefully after reading, this thought will be exciting instead of scary.
+However, a lot of our users aren't used to thinking of themselves as organizational leaders. Some of you might balk at the idea—maybe it even sounds like selling out! If you're raising your hand, then part of the purpose of this book is to put you on a path to thinking about your project as an *organization* and you as a *leader* of it. Hopefully, after reading, this thought will be exciting instead of scary.
 
-This book is laid out as an introduction to topics that are relevant to every organization. Each chapter provides a brief introduction to the topic with links to further resources, and then a discussion of unique ways in which the topic applies to *open* organizations.
+This book is laid out as an introduction to topics that are relevant to every organization. Each chapter provides a brief introduction to the topic with links to further resources, and includes a discussion of ways in which the topic uniquely applies to *open* organizations.
 
  1. [Identity](identity.md)
  2. [Communication](communication.md)
