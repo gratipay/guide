@@ -12,7 +12,7 @@ Values are rules of thumb, touchstones you refer to when making difficult decisi
 
 ## Business Model
 
-Your business model is your plan for *sustainably* pursuing your mission, in service of your vision, according to your values. Your mission, vision, and values are about your organization's core identity, your internal center, if you will. Your business model is where you turn outwards: Who are your customers? What do they need and want? How are you going to serve them? Who will partner with you?
+Your business model is your plan for sustainably executing your mission, in pursuit of your vision, according to your values. Your mission, vision, and values are about your organization's core identity, your internal center, if you will. Your business model is where you turn outwards: Who are your customers? What do they need and want? How are you going to serve them? Who will partner with you?
 
 Strageyzer's [Business Model Canvas](http://businessmodelgeneration.com/canvas/bmc) and [Value Proposition Canvas](http://businessmodelgeneration.com/canvas/vpc) are the best place to start in wrapping your head around what a business model is and how to develop one. Go watch the videos at those links; here's what the canvases look like:
 
