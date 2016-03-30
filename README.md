@@ -8,7 +8,7 @@ However, a lot of us aren't used to thinking of ourselves as organizational lead
 
 This book is laid out as an introduction to topics that are relevant to every organization. Each chapter provides a brief introduction to the topic with links to further resources, and includes a discussion of ways in which the topic uniquely applies to *open* organizations. The topics are:
 
- 1. [Identity](identity.md): How Your Organization Defines Itself, to Itself and for Others
+ 1. [Identity](identity.md): Defining Your Organization, for Yourself and for Others
  2. [Communication](communication.md): Streamlining the Flow of Information When the Line Between Inside and Out is Fuzzy
  3. [Production](production.md): Delivering on Your Value Proposition
  4. [Governance](governance.md): Distributing Power in Ownership and Management
