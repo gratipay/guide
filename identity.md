@@ -19,3 +19,5 @@ Strageyzer's [Business Model Canvas](http://businessmodelgeneration.com/canvas/b
 ![The Business Model Canvas](the-business-model-canvas.png)
 
 ![The Value Proposition Canvas](the-value-proposition-canvas.png)
+
+When you have your 
