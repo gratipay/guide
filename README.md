@@ -9,9 +9,10 @@ However, a lot of our users aren't used to thinking of themselves as organizatio
 This book is laid out as an introduction to topics that are relevant to every organization. Each chapter provides a brief introduction to the topic with links to further resources, and then a discussion of unique ways in which the topic applies to *open* organizations.
 
  1. [Identity](identity.md)
- 2. Communicating
- 3. Governance
- 4. Financing
+ 2. [Communication](communication.md)
+ 3. [Governance](governance.md
+ 4. )
+ 4. [Financing](financing.md)
 
 Before we get into practical matters, though, let's take a moment to define what exactly we mean by an open organization, and, along the way, why you might want to run one.
 
