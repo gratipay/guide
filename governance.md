@@ -1,4 +1,5 @@
-# Governance Models
+# Governance
+
 
 Different models, dictatorship to democracy. Cooperatives, non-profits, for-profits. B Corps, PBCs. Government?
 
