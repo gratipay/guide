@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Definition](identity.md)
+* [Definiting Your Identity](identity.md)
 * [Communication](communication.md)
 * [Production](production.md)
 * [Governance](governance.md)
