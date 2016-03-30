@@ -50,7 +50,7 @@ From http://p2pfoundation.net/Open_Organization:
 
 > An open organisation is an organisation open to anyone who agrees to abide by its purpose and principles, with complete transparency and clearly defined decision making structures, ownership patterns, and exchange mechanisms; designed, defined, and refined, by all members as part of a continual transformative process. (Source: http://uniteddiversity.com)
 
-That one [seems](http://www.transitiontownbrixton.org/2009/12/definition-of-an-open-organisation/) to date to December, 2009—almost as old as E! Another via P2P:
+That one [seems](http://www.transitiontownbrixton.org/2009/12/definition-of-an-open-organisation/) to date to December, 2009—almost as old as the E Text Editor announcement! Another via P2P:
 
 > An Open Organization is defined as the sharing of ideas, knowledge, resources, and skills across organizational, generational and cultural boundaries within, and in some cases outside, a flat hierarchical, agile, self-led organizational system for the purpose of achieving a stated outcome. (Source: Dr. Philip A Foster, http://www.maximumchange.com)
 
