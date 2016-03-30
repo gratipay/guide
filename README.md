@@ -19,7 +19,7 @@ Before we proceed, though, let's take a moment to define what exactly we mean by
 
 ## What Is an Open Organization? Why Are They Interesting?
 
-Let's start by defining what we mean when we talk about open organizations. We'll look first at a snapshot, our definition as it currently stands. Then we'll provide some background on how we arrived at our definition. Along the way, hopefully you'll catch some of our excitement about how open organizations improve on closed organizations. Lastly, we'll discuss our definition in relation to some other definitions.
+Let's define what we mean when we talk about open organizations. We'll look first at a snapshot, our definition as it currently stands. Then we'll provide some background on how we arrived at our definition. Along the way, hopefully you'll catch some of our excitement about how open organizations improve on closed organizations. Lastly, we'll discuss our definition in relation to some other definitions.
 
 (Note: This section is especially important for Gratipay internally, because it encodes one of the two criteria we look at when [reviewing](http://inside.gratipay.com/howto/review-teams) applications for new organizations interested in joining Gratipay.)
 
