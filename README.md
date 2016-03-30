@@ -14,7 +14,7 @@ This book is laid out as an introduction to topics that are relevant to every or
  4. [Governance](governance.md)
  5. [Financing](financing.md)
 
-Before we get into practical matters, though, let's take a moment to define what exactly we mean by an open organization, and, along the way, why you might want to launch one.
+Before we proceed, though, let's take a moment to define what exactly we mean by an open organization, and (for those not already convinced) why you might want to launch one.
 
 
 ## What Is an Open Organization? Why Are They Interesting?
