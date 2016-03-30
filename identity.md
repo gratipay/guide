@@ -1,4 +1,4 @@
-# Definition
+# Defining Your Identity
 
 As we said in the introduction, we're defining an organization in general as an economic entity larger than an individual. But what sets your organization apart from any other? How do you define IyourI organization? In this chapter we'll look at three ways to define your organization's collective self-identity. We'll start with the broadest scope: mission, vision, and values. Then we'll talk about developing a business model that 
 
