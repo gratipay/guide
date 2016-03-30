@@ -20,4 +20,4 @@ Strageyzer's [Business Model Canvas](http://businessmodelgeneration.com/canvas/b
 
 ![The Value Proposition Canvas](the-value-proposition-canvas.png)
 
-When you have your 
+A strong self-understanding does no good if its not shared with others. Since by our definition an organization is larger than just one individual, an organization needs some way to communicate.
