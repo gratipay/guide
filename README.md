@@ -26,6 +26,20 @@ Let's define what we mean when we talk about open organizations. We'll look firs
 
 ### Our Definition
 
+We define an open organization as an organization with a fuzzy and permeable boundary between inside and out. Let's unpack that.
+
+Open organizations (as we've already pointed out) are a subset of organizations, which we've already defined any economic unit larger than an individual. The boundary of any organization demarcates the set of individuals who belong to the organization, and those who don't. The essential feature of *open* organizations is that this line is both fuzzy and permeable.
+
+A fuzzy boundary is one that is not clear, not sharp or distinct:
+
+![](fuzzy.svg)
+
+vs.
+
+![](firm.svg)
+
+
+
 There are three primary characteristics we look for in an open organization: liberal licensing, pay-what-you-want revenue, and take-what-you-want compensation. For each of these criteria, there is room for interpretation. We're fundamentally looking for an *attitude* of openness, of which these characteristics are a manifestation. Let's consider each in turn.
 
 Liberal licensing means that your organization offers its products and services under permissive licenses such as those developed by [Creative Commons](https://creativecommons.org/), or those approved by the [Open Source Initiative](https://opensource.org/). Why? Because you want to share! P.S. We haven't sort out how this relates to services businesses yet.
