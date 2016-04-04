@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC 
+    "-//W3C//DTD SVG 1.0//EN" 
+    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+     height="640px" width="640px"
+     xml:space="preserve">
+
+  <defs>
+    <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%"   style="stop-color:rgb(0,0,0);     stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(255,255,255); stop-opacity:1" />
+    </radialGradient>
+  </defs>
+  <ellipse cx="320" cy="320" rx="320" ry="320" fill="url(#grad1)" />
+</svg>
