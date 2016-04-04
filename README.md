@@ -28,12 +28,14 @@ Let's define what we mean when we talk about open organizations. We'll look firs
 
 We define an **open organization** as an organization with a fuzzy and permeable boundary. Let's unpack that.
 
-Open organizations (as we've already pointed out) are a subset of organizations, which we've defined as any economic unit larger than an individual. The boundary of any organization demarcates the set of individuals who belong to the organization, and those who don't. The essential feature of *open* organizations is that this line is both fuzzy and permeable.
+Open organizations (as we've already pointed out) are a subset of organizations, which we've defined as any economic unit larger than an individual. The boundary of any organization demarcates the set of individuals who belong to the organization, and those who don't. The essential feature of *open* organizations is that this line is permeable.
 
-A **fuzzy** boundary is not clear, not sharp or distinct;  a **permeable** boundary is one that is easy for individuals to traverse. The two features are not logically entwined, but tend to go together in practice.
+A **permeable** boundary is one that individuals can easily traverse. In practice, organizations with a permeable boundary also end up with a **fuzzy** boundary: one that is not clear, not sharp or distinct or well-defined. This happens because, when given the choice, individuals select very different levels of engagement with an organization.
 
 ![](boundaries.svg)
-There are three primary characteristics we look for in an open organization: liberal licensing, pay-what-you-want revenue, and take-what-you-want compensation. For each of these criteria, there is room for interpretation. We're fundamentally looking for an *attitude* of openness, of which these characteristics are a manifestation. Let's consider each in turn.
+
+
+For Gratipay, we look at three primary characteristics to determine whether an organization is an open organization with a permeable boundary: liberal licensing, pay-what-you-want revenue, and take-what-you-want compensation. For each of these criteria, there is room for interpretation. We're fundamentally looking for an *attitude* of openness, of which these characteristics are a manifestation. Let's consider each in turn.
 
 Liberal licensing means that your organization offers its products and services under permissive licenses such as those developed by [Creative Commons](https://creativecommons.org/), or those approved by the [Open Source Initiative](https://opensource.org/). Why? Because you want to share! P.S. We haven't sort out how this relates to services businesses yet.
 
