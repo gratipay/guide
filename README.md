@@ -26,11 +26,11 @@ Let's define what we mean when we talk about open organizations. We'll look firs
 
 ### Our Definition
 
-We define an open organization as an organization with a fuzzy and permeable boundary. Let's unpack that.
+We define an **open organization** as an organization with a fuzzy and permeable boundary. Let's unpack that.
 
 Open organizations (as we've already pointed out) are a subset of organizations, which we've defined as any economic unit larger than an individual. The boundary of any organization demarcates the set of individuals who belong to the organization, and those who don't. The essential feature of *open* organizations is that this line is both fuzzy and permeable.
 
-A fuzzy boundary is not clear, not sharp or distinct;  a permeable boundary is one that is easy for individuals to traverse. The two features are not logically entwined but tend to go together in practice.
+A **fuzzy** boundary is not clear, not sharp or distinct;  a **permeable** boundary is one that is easy for individuals to traverse. The two features are not logically entwined, but tend to go together in practice.
 
 ![](boundaries.svg)
 There are three primary characteristics we look for in an open organization: liberal licensing, pay-what-you-want revenue, and take-what-you-want compensation. For each of these criteria, there is room for interpretation. We're fundamentally looking for an *attitude* of openness, of which these characteristics are a manifestation. Let's consider each in turn.
