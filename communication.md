@@ -1,15 +1,7 @@
 # Communication
 
-Organizations are economic units larger than an individual, and whenever two or more people get together, they need to communicate. This is where *open* organizations start to get interesting, because their primary characteristic is that they have a permeable and fuzzy boundary between the inside and the outside. In closed organizations, where the boundary between inside and out is relatively firm and impermeable, there is a fairly strict separation between external communications (marketing, public relations) and internal communications.
+Organizations are economic units larger than an individual, and whenever two or more people get together, they need to communicate. This is where *open* organizations start to get interesting, because their primary characteristic is that they have a permeable and fuzzy boundary between the inside and the outside. In closed organizations, where the boundary between inside and out is relatively firm and impermeable, there is a fairly strict separation between external communications (marketing, public relations) and internal communications. For open organizations, these functions lead naturally into one other.
 
-Basically [GitLab](https://about.gitlab.com/2016/03/23/remote-communication/).
+Basically you want to define channels that you use for communications, both internal and external, and drive conversation from external to internal channels. For example, when someone engages you on Twitter (external), link them to a GitHub ticket (internal) about the issue. Invite them to cross the threshold between external and internal.
 
-But also inside and outside, porous boundary.
-
-Differentiating roles (gets into Governance?).
-
-## Definition
-
-## Processes
-
-## Snapshots
+Check out [GitLab](https://about.gitlab.com/2016/03/23/remote-communication/) for a great policy on internal communications. Their [handbook](https://about.gitlab.com/handbook/) is a great example of a knowledge base for an open organization. Also check out Gratipay's handbook, [*Inside Gratipay*](http://inside.gratipay.com/).
